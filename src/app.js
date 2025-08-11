@@ -21,10 +21,18 @@
 
           if((noun[k] == 'racoon') && (domain[x] == '.com')){
             ((noun[k] = 'ra') && (domain[x] = '.coom'))
+
+
             console.log(`${pronoun[i]}${adj[j]}${noun[k]}${domain[x]}`);
+
+
             ((noun[k] = 'racoon') && (domain[x] = '.com' ))
+
+
           }
+
           console.log(`${pronoun[i]}${adj[j]}${noun[k]}${domain[x]}`)
+
       }
     }
   }
